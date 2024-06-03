@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-components/static/css/main.8c4d413a.css",
-    "main.js": "/react-components/static/js/main.6e679bcc.js",
+    "main.css": "/react-components/static/css/main.8f9c5e3b.css",
+    "main.js": "/react-components/static/js/main.d932d430.js",
     "static/media/tutor-one.png": "/react-components/static/media/tutor-one.5ff69fa47143dc101e81.png",
     "static/media/v-hero-image.jpg": "/react-components/static/media/v-hero-image.ec1bacdfd18f486e8bb7.jpg",
     "static/media/tutor-two.jpeg": "/react-components/static/media/tutor-two.24b620e46a3d41e8d693.jpeg",
     "static/media/tutor-three.webp": "/react-components/static/media/tutor-three.06d88211714f02c8a48e.webp",
     "index.html": "/react-components/index.html",
-    "main.8c4d413a.css.map": "/react-components/static/css/main.8c4d413a.css.map",
-    "main.6e679bcc.js.map": "/react-components/static/js/main.6e679bcc.js.map"
+    "main.8f9c5e3b.css.map": "/react-components/static/css/main.8f9c5e3b.css.map",
+    "main.d932d430.js.map": "/react-components/static/js/main.d932d430.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c4d413a.css",
-    "static/js/main.6e679bcc.js"
+    "static/css/main.8f9c5e3b.css",
+    "static/js/main.d932d430.js"
   ]
 }
