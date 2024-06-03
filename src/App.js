@@ -12,7 +12,6 @@ import image1 from './assets/images/tutor-one.png';
 import image2 from './assets/images/v-hero-image.jpg';
 import image3 from './assets/images/tutor-two.jpeg';
 import image4 from './assets/images/tutor-three.webp';
-
 function App() {
   const galleryItems = [
     image1,
@@ -21,14 +20,18 @@ function App() {
     image4
   ];
 
+  const bannerButtons = [
+    { type: 'primary', text: 'Learn More' },
+    { type: 'secondary', text: 'Contact Us' }
+  ];
+
   return (
     <>
       <Header />
       <Banner
         title="I am Adeniyi Richard, A Software Developer"
         text="I am currently learning react so this is me trying new things with component and props concept."
-        buttonType="primary"
-        buttonText="Learn More"
+        buttons={bannerButtons}
       />
       <div className="container">
         <Gallery items={galleryItems} />
