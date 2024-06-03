@@ -30,35 +30,42 @@ body {
     color: white;
     text-decoration: none;
   }
-  
+
+
 .banner {
-    background: linear-gradient(135deg, white 0%, lightblue 100%);
-    padding: 100px 20px;
-    color: #333;
-    text-align: center;
-  }
-  
-  .banner-content {
-    background: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    border-radius: 10px;
-    display: inline-block;
-  }
-  
-  .banner h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-  }
-  
-  .banner p {
-    font-size: 18px;
-    margin-bottom: 20px;
-  }
-  
-  .banner .button {
-    padding: 10px 30px;
-    font-size: 16px;
-  }  
+  background: linear-gradient(135deg, white 0%, lightblue 100%);
+  padding: 100px 20px;
+  color: #333;
+  text-align: center;
+}
+
+.banner-content {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.banner h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.banner p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.banner .buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.banner .button {
+  padding: 10px 30px;
+  font-size: 16px;
+}
   
   .button {
     padding: 10px 20px;
